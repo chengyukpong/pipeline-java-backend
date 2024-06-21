@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: run
+name: d0/build-and-deploy
 
 run-name: run at ${{ github.ref }} 
 
